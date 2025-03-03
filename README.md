@@ -23,5 +23,5 @@ Extension này được thiết kế để vượt Yeumoney tự động.
 
 Sau khi cài đặt, extension sẽ tự động hoạt động khi bạn nhấp vào các liên kết shortlink của YeuMoney. Không cần bất kỳ cấu hình nào thêm.
 
-## Liên Hệ:https://t.me/babysieucute0611
+## Liên Hệ: [Telegram]([https://github.com/ngocbaby301/bypass-yeumoney/raw/main/Bypass-Shortlink-1.0.user.js](https://t.me/babysieucute0611))
 
