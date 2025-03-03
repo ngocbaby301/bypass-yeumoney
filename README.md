@@ -6,7 +6,7 @@ Extension này được thiết kế để vượt Yeumoney tự động.
 
 ## Tính Năng
 
-- **Tự động bypass**: Tự động chuyển hướng người dùng đến liên kết gốc sau 80s mà không cần nhấp thêm lần nào.
+- **Tự động bypass**: Tự động chuyển hướng người dùng đến liên kết gốc sau 0s mà không cần nhấp thêm lần nào.
 - **Dễ dàng cài đặt**: Cài đặt đơn giản trên Tampermonkey.
 - **Nhẹ và nhanh**: Tối ưu hóa để không làm chậm trình duyệt.
 
@@ -21,5 +21,5 @@ Extension này được thiết kế để vượt Yeumoney tự động.
 
 Sau khi cài đặt, extension sẽ tự động hoạt động khi bạn nhấp vào các liên kết shortlink của YeuMoney. Không cần bất kỳ cấu hình nào thêm.
 
-## Liên Hệ
+## Liên Hệ:https://t.me/babysieucute0611
 
