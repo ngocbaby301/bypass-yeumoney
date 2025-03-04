@@ -12,7 +12,7 @@ Extension này được thiết kế để vượt Yeumoney tự động.
 
 ## Cài Đặt
 
-Điện thoại cài tương tự như trên máy tính (Dùng firefox và cài extension tampermonkey)
+Điện thoại cài tương tự như trên máy tính (Dùng firefox và cài extension tampermonkey) Hoặc tải trình duyệt quetta trên CHPlay Link Tampermonkey cho quetta ( https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=vi )
 
 1. Cài đặt Tampermonkey trên trình duyệt Chrome hoặc Firefox,sau khi cài nhớ bật Developer mode lên.
 2. Link Tampermonkey cho PC ( https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=vi )
