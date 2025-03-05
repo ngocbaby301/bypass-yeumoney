@@ -6,7 +6,7 @@ Extension này được thiết kế để vượt Yeumoney tự động.
 
 ## Tính Năng
 
-- **Tự động bypass**: Tự động chuyển hướng người dùng đến liên kết gốc sau 0s mà không cần nhấp thêm lần nào.
+- **Tự động bypass**: Tự động chuyển hướng người dùng đến liên kết gốc sau 0s-120s mà không cần nhấp thêm lần nào.
 - **Dễ dàng cài đặt**: Cài đặt đơn giản trên Tampermonkey.
 - **Nhẹ và nhanh**: Tối ưu hóa để không làm chậm trình duyệt.
 
